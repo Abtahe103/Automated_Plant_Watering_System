@@ -23,3 +23,13 @@
   <li><strong>Piezo Buzzer</strong>: Alerts for low water levels.</li>
   <li>Additional components like a breadboard, jumper wires, LCD display, and power supply.</li>
 </ul>
+
+<h2>Component Setup</h2>
+<ul>
+  <li><strong>Arduino Uno</strong>: Microcontroller to manage sensors and control devices.
+    <br>
+    <img src="path/to/arduino-image.jpg" alt="Arduino Uno" width="400">
+    <br>
+    <em>Fig: Arduino Uno used as the system's microcontroller.</em>
+  </li>
+</ul>
