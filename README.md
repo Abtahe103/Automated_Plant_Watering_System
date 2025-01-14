@@ -25,11 +25,9 @@
 </ul>
 
 <h2>Component Setup</h2>
-<ul>
-  <li><strong>Arduino Uno</strong>: Microcontroller to manage sensors and control devices.
-    <br>
-    <img src="path/to/arduino-image.jpg" alt="Arduino Uno" width="400">
-    <br>
-    <em>Fig: Arduino Uno used as the system's microcontroller.</em>
-  </li>
-</ul>
+<div style="text-align: center;">
+  <img src="path/to/automated-system-setup.jpg" alt="Automated Plant Watering System Components Setup" width="400" height="300">
+  <br>
+  <em>Fig: Automated Plant Watering System Components Setup</em>
+</div>
+
