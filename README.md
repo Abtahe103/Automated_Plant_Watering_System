@@ -26,8 +26,15 @@
 
 <h2>Component Setup</h2>
 <div style="text-align: center;">
-  <img src="path/to/automated-system-setup.jpg" alt="Automated Plant Watering System Components Setup" width="400" height="300">
+  <img src="Images/PXL_20230607_220539608.jpg" alt="Automated Plant Watering System Components Setup" width="700" height="500">
   <br>
   <em>Fig: Automated Plant Watering System Components Setup</em>
 </div>
+
+<h2>Contributors</h2>
+<ul>
+  <li><a href="https://github.com/Abtahe" target="_blank"><strong>Mohammad Abtahe Alam</strong></a></li>
+  <li><a href="https://github.com/AdnanGithub" target="_blank"><strong>Md. Rakibul Hasan Adnan</strong></a></li>
+</ul>
+
 
