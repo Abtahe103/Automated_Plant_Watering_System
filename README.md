@@ -33,8 +33,8 @@
 
 <h2>Contributors</h2>
 <ul>
-  <li><a href="https://github.com/Abtahe" target="_blank"><strong>Mohammad Abtahe Alam</strong></a></li>
-  <li><a href="https://github.com/AdnanGithub" target="_blank"><strong>Md. Rakibul Hasan Adnan</strong></a></li>
+  <li><a href="https://github.com/Abtahe103" target="_blank"><strong>Mohammad Abtahe Alam</strong></a></li>
+  <li><a href="https://github.com/RakibHasan106" target="_blank"><strong>Md. Rakibul Hasan Adnan</strong></a></li>
 </ul>
 
 
