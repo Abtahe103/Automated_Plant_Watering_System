@@ -24,7 +24,7 @@
   <li>Additional components like a breadboard, jumper wires, LCD display, and power supply.</li>
 </ul>
 
-<h2>Component Setup</h2>
+<h2>Components Setup</h2>
 <div style="text-align: center;">
   <img src="Images/PXL_20230607_220539608.jpg" alt="Automated Plant Watering System Components Setup" width="700" height="500">
   <br>
