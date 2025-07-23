@@ -3,6 +3,8 @@
 <p>
   The Automated Plant Watering System is designed to monitor soil moisture and atmospheric humidity levels, providing water to plants only when needed. By leveraging an Arduino Uno, sensors, and a water pump, the system ensures optimal soil moisture while conserving water. This project is particularly beneficial for large gardens and during periods when manual watering isn't feasible.
 
+<a href="https://youtu.be/SVttyg27qsU?si=dIzqz7nwkUdceHm4" target="_blank"><strong>Project Showcase</strong></a>
+
 <strong>Key features:</strong>
 <ul>
   <li>Automatically turns on/off the water pump based on soil moisture and humidity levels.</li>
